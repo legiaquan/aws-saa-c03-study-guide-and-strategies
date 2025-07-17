@@ -2,6 +2,12 @@
 
 👉 [View the English version here ↗](./README.md)
 
+## Giới Thiệu
+
+Tài liệu này tổng hợp các chiến lược, mẫu câu hỏi thường gặp và hướng dẫn chọn giải pháp phù hợp cho kỳ thi AWS Certified Solutions Architect – Associate (SAA-C03). Mục tiêu là giúp bạn hiểu bản chất các dạng câu hỏi và áp dụng kiến thức AWS một cách hiệu quả, thay vì học thuộc từng đáp án.
+
+---
+
 ## 1. Chiến Lược Làm Bài
 
 - **Phân tích câu hỏi:** Xác định vấn đề cốt lõi, kiến trúc hiện tại (nếu có), và yêu cầu chính.
