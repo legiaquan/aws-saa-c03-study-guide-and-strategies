@@ -1,5 +1,7 @@
 # AWS Certified Solutions Architect – Associate (SAA-C03) Exam: Study Guide & Strategies
 
+👉 [Xem bản Tiếng Việt tại đây](./README.vi.md)
+
 ## Introduction
 
 This document summarizes effective strategies, common question patterns, and guidance on choosing the right AWS solutions for the AWS Certified Solutions Architect – Associate (SAA-C03) exam. The goal is to help you understand the underlying logic of exam questions and apply AWS knowledge efficiently, rather than memorizing answers.
