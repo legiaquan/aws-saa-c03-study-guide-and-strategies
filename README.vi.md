@@ -1,5 +1,7 @@
 # Hướng Dẫn Ôn Tập AWS Certified Solutions Architect - Associate (SAA-C03)
 
+👉 [View the English version here ↗](./README.md)
+
 ## 1. Chiến Lược Làm Bài
 
 - **Phân tích câu hỏi:** Xác định vấn đề cốt lõi, kiến trúc hiện tại (nếu có), và yêu cầu chính.
